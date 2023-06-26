@@ -1,0 +1,50 @@
+package it.epicode.be;
+
+//import java.util.Scanner;
+
+public class Helloworld {
+	
+	public static int moltiplica(int n1, int n2) {
+		return n1 * n2;
+	}
+	
+	public static String concatena(String str, int n) {
+		return str + " " + n;
+	}
+	
+	public static String[] inserisciInArray(String[] strArray, String str) {
+		
+		String[] sixElementsArray = new String[6];
+		
+		sixElementsArray[0] = strArray[0];
+		sixElementsArray[1] = strArray[1];
+		sixElementsArray[2] = str;
+		sixElementsArray[3] = strArray[3];
+		sixElementsArray[4] = strArray[4];
+		sixElementsArray[5] = strArray[5];
+		
+		return sixElementsArray;
+		
+//		Scanner sc = new Scanner(System.in);
+//		
+//		System.out.print("Inserisci qualcosa: ");
+//		String nome = sc.nextLine();
+//		System.out.println(nome);
+	}
+
+	public static void main (String[] args) {
+	
+		// Stampa a console  la frase
+		System.out.println("This is my first Epicode Java Project!");
+		
+		String[] strArray = { "1", "2", "3", "4", "5" };
+		
+		for( int i = 0; i < strArray.length; i++  ) {			
+			System.out.println(strArray[i]);
+		}
+		
+		inserisciInArray(strArray, "stringa aggiunta");
+		
+		
+	}
+}
