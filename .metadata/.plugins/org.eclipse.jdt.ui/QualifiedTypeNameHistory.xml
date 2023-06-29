@@ -15,4 +15,6 @@
     <fullyQualifiedTypeName name="com.epicode.esercizi.Esercizio1"/>
     <fullyQualifiedTypeName name="com.epicode.esercizio1.Dipartimento"/>
     <fullyQualifiedTypeName name="com.epicode.esercizio1.Livello"/>
+    <fullyQualifiedTypeName name="com.epicode.esercizi.Dipendente"/>
+    <fullyQualifiedTypeName name="com.epicode.esercizi.Dipartimento"/>
 </qualifiedTypeNameHistroy>
