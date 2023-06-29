@@ -1,8 +1,8 @@
 package com.epicode.esercizi;
 
-public class Esercizio2 {
+class Esercizio2 {
 	
-	public static void esercizioSwitch(int n) {
+	static void esercizioSwitch(int n) {
 		
 		switch (n) {
 		case 0:

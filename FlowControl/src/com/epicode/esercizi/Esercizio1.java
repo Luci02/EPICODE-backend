@@ -1,8 +1,8 @@
 package com.epicode.esercizi;
 
-public class Esercizio1 {
+class Esercizio1 {
 	
-	public static boolean stringaPariDispari(String str) {
+	static boolean stringaPariDispari(String str) {
 		
 		if( str.length()%2 == 0 ) {
 			return true;
@@ -11,7 +11,7 @@ public class Esercizio1 {
 		return false;
 	}
 	
-	public static boolean annoBisestile(int anno) {
+	static boolean annoBisestile(int anno) {
 		
 		if( (anno%100 == 0) && (anno%400 == 0) ) {
 			return true;
