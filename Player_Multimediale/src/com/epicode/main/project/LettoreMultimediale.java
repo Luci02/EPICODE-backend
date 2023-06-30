@@ -96,17 +96,162 @@ public class LettoreMultimediale {
 			
 			if(sceltaRiproduzione == 0) {
 				break;
+			}else if(sceltaRiproduzione > 5) {
+				System.out.println("Scelta non consentita!\n");
+				continue;
 			}
 			
+			int sceltaOpz;
 			if (elementsList[s] instanceof RegistrazioneAudio) {
 				RegistrazioneAudio r = (RegistrazioneAudio) elementsList[s];
 				r.play();
+				
+				while(true) {
+					System.out.println("Digita 0 per continuare");
+					System.out.println("Digita 1 per le opzioni del Volume.");
+					System.out.print(">>> ");
+					sceltaOpz = sc.nextInt();
+					sc.nextLine();
+					System.out.println();
+					
+					if(sceltaOpz == 0) {
+						break;
+					}else if(sceltaOpz == 1) {
+						while(true) {
+							System.out.println("Digita 0 per continuare");
+							System.out.println("Digita 1 per alzare il volume.");
+							System.out.println("Digita 2 per abbassare il volume.");
+							System.out.print(">>> ");
+							sceltaOpz = sc.nextInt();
+							sc.nextLine();
+							System.out.println();
+							
+							if(sceltaOpz == 0) {
+								break;
+							}else if(sceltaOpz == 1) {
+								r.alzaVolume();
+								r.play();
+							}else if(sceltaOpz == 2) {
+								r.abbassaVolume();
+								r.play();
+							}else {
+								continue;
+							}
+						}
+					}else {
+						continue;
+					}
+				}
+				
+				
 			}else if( elementsList[s] instanceof Video ) {
 				Video v = (Video) elementsList[s];
 				v.play();
+				
+				while(true) {
+					System.out.println("Digita 0 per continuare");
+					System.out.println("Digita 1 per le opzioni del Volume.");
+					System.out.println("Digita 2 per le opzioni della Luminosità.");
+					System.out.print(">>> ");
+					sceltaOpz = sc.nextInt();
+					sc.nextLine();
+					System.out.println();
+					
+					if(sceltaOpz == 0) {
+						break;
+					}else if(sceltaOpz == 1) {
+						while(true) {
+							System.out.println("Digita 0 per continuare");
+							System.out.println("Digita 1 per alzare il volume.");
+							System.out.println("Digita 2 per abbassare il volume.");
+							System.out.print(">>> ");
+							sceltaOpz = sc.nextInt();
+							sc.nextLine();
+							System.out.println();
+							
+							if(sceltaOpz == 0) {
+								break;
+							}else if(sceltaOpz == 1) {
+								v.alzaVolume();
+								v.play();
+							}else if(sceltaOpz == 2) {
+								v.abbassaVolume();
+								v.play();
+							}else {
+								continue;
+							}
+						}
+					}else if(sceltaOpz == 2) {
+						
+						while(true) {
+							System.out.println("Digita 0 per continuare");
+							System.out.println("Digita 1 per alzare la luminosità.");
+							System.out.println("Digita 2 per abbassare la luminosità.");
+							System.out.print(">>> ");
+							sceltaOpz = sc.nextInt();
+							sc.nextLine();
+							System.out.println();
+							
+							if(sceltaOpz == 0) {
+								break;
+							}else if(sceltaOpz == 1) {
+								v.aumentaLuminosita();;
+								v.play();
+							}else if(sceltaOpz == 2) {
+								v.diminuisciLuminosita();
+								v.play();
+							}else {
+								continue;
+							}
+						}
+						
+					}else {
+						continue;
+					}
+				}
+				
 			}else {
-				Immagine a = (Immagine) elementsList[s];
-				a.show();
+				Immagine i = (Immagine) elementsList[s];
+				i.show();
+				
+				while(true) {
+					System.out.println("Digita 0 per continuare");
+					System.out.println("Digita 1 per le opzioni della Luminosità.");
+					System.out.print(">>> ");
+					sceltaOpz = sc.nextInt();
+					sc.nextLine();
+					System.out.println();
+					
+					if(sceltaOpz == 0) {
+						break;
+					}else if(sceltaOpz == 1) {
+						
+						while(true) {
+							System.out.println("Digita 0 per continuare");
+							System.out.println("Digita 1 per alzare la luminosità.");
+							System.out.println("Digita 2 per abbassare la luminosità.");
+							System.out.print(">>> ");
+							sceltaOpz = sc.nextInt();
+							sc.nextLine();
+							System.out.println();
+							
+							if(sceltaOpz == 0) {
+								break;
+							}else if(sceltaOpz == 1) {
+								i.aumentaLuminosita();
+								i.show();
+							}else if(sceltaOpz == 2) {
+								i.diminuisciLuminosita();
+								i.show();
+							}else {
+								continue;
+							}
+						}
+						
+					}else {
+						continue;
+					}
+				}
 			}
 			
 		}
