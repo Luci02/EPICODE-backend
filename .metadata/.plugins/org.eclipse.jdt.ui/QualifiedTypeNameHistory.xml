@@ -24,4 +24,6 @@
     <fullyQualifiedTypeName name="com.epicode.main.project.Immagine"/>
     <fullyQualifiedTypeName name="com.epicode.main.project.classes.ElementoMultimediale"/>
     <fullyQualifiedTypeName name="com.epicode.main.project.classes.RegistrazioneAudio"/>
+    <fullyQualifiedTypeName name="com.epicode.main.project.interfaces.Luminosita"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
 </qualifiedTypeNameHistroy>

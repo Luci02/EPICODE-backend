@@ -1,6 +1,8 @@
 package com.epicode.main.project.classes;
 
-public class Video extends ElementoRiproducibile {
+import com.epicode.main.project.interfaces.Luminosita;
+
+public class Video extends ElementoRiproducibile implements Luminosita {
 	
 	private int luminosita = 3; // Luminosità da 0 a 5 | Valore di default a 3
 
@@ -8,6 +10,7 @@ public class Video extends ElementoRiproducibile {
 		super(titolo, durata);
 	}
 	
+	@Override
 	public void aumentaLuminosita() {
 		
 		if(this.luminosita != 5) {
@@ -19,6 +22,7 @@ public class Video extends ElementoRiproducibile {
 		
 	}
 	
+	@Override
 	public void diminuisciLuminosita() {
 		
 		if(this.luminosita != 0) {
