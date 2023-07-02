@@ -8,9 +8,6 @@ import com.epicode.main.project.classes.RegistrazioneAudio;
 import com.epicode.main.project.classes.Video;
 
 public class LettoreMultimediale {
-	
-	
-	
 
 	public static void main(String[] args) {
 		
@@ -143,7 +140,6 @@ public class LettoreMultimediale {
 					}
 				}
 				
-				
 			}else if( elementsList[s] instanceof Video ) {
 				Video v = (Video) elementsList[s];
 				v.play();
@@ -247,15 +243,12 @@ public class LettoreMultimediale {
 								continue;
 							}
 						}
-						
 					}else {
 						continue;
 					}
+					
 				}
-			}
-			
+			}	
 		}
-
 	}
-
 }

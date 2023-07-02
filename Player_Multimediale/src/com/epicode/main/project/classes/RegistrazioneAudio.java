@@ -10,7 +10,7 @@ public class RegistrazioneAudio extends ElementoRiproducibile {
 	public void play() {
 		
 		for (int i = 0; i < this.durata; i++) {
-			System.out.println(this.titolo + " " + "!".repeat(this.volume));
+			System.out.println(this.getTitolo() + " " + "!".repeat(this.volume));
 		}
 		System.out.println();
 	}

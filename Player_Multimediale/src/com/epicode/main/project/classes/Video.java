@@ -38,7 +38,7 @@ public class Video extends ElementoRiproducibile implements Luminosita {
 	public void play() {
 
 		for (int i = 0; i < this.durata; i++) {
-			System.out.println(this.titolo + " " + "!".repeat(this.volume) + " " + "*".repeat(this.luminosita));
+			System.out.println(this.getTitolo() + " " + "!".repeat(this.volume) + " " + "*".repeat(this.luminosita));
 		}
 		
 		System.out.println();

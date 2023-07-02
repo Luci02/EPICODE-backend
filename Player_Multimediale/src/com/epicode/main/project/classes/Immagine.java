@@ -35,7 +35,7 @@ public class Immagine extends ElementoMultimediale implements Luminosita {
 	}
 	
 	public void show() {
-		System.out.println(this.titolo + " " + "*".repeat(this.luminosita));
+		System.out.println(this.getTitolo() + " " + "*".repeat(this.luminosita));
 		System.out.println();
 	}
 
