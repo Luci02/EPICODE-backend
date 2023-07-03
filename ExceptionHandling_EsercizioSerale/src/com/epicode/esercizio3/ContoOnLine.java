@@ -16,9 +16,11 @@ public class ContoOnLine extends ContoCorrente {
 	}
 
 	@Override
-	public void preleva(double x) {
+	public void preleva(double x) throws BancaException {
 		if (x <= maxPrelievo) {
 			super.preleva(x);
+		}else {
+			throw new BancaException("Il prelievo non è disponibile");
 		}
 	}
 
