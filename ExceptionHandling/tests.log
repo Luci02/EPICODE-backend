@@ -16,3 +16,7 @@
 15:22:54.258 [main] ERROR c.e.e.esercizio1.classes.Esercizio1 - Index 8 out of bounds for length 5
 16:28:29.365 [main] ERROR c.e.e.esercizio1.classes.Esercizio1 - Hai inserito un numero non concesso.
 16:28:37.391 [main] ERROR c.e.e.esercizio1.classes.Esercizio1 - Hai inserito un numero non concesso.
+19:27:08.167 [main] INFO  c.e.e.esercizio2.classes.Esercizio2 - Hai consumato 15Km per litro
+19:27:20.183 [main] INFO  c.e.e.esercizio2.classes.Esercizio2 - Hai consumato 0Km per litro
+19:29:07.918 [main] ERROR c.e.e.esercizio2.classes.Esercizio2 - / by zero
+19:29:36.466 [main] ERROR c.e.e.esercizio2.classes.Esercizio2 - ERRORE! Non puoi dividere per zero!

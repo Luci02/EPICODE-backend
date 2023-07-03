@@ -63,7 +63,3 @@ public class Esercizio1 {
 	}
 }
 
-//public static void printArray(int[] array) {
-//    System.out.println("Stato attuale dell'array:");
-//    System.out.println(Arrays.toString(array));
-//}

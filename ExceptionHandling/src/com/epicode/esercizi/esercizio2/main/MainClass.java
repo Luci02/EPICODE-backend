@@ -1,10 +1,13 @@
 package com.epicode.esercizi.esercizio2.main;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import com.epicode.esercizi.esercizio2.classes.Esercizio2;
 
 public class MainClass {
 	
-	Logger log = LoggerFactory.getLogger(getClass());
+	public static void main(String[] args) {
+		
+		Esercizio2.start();
+		
+	}
 
 }
