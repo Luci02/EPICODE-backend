@@ -1,0 +1,18 @@
+14:29:40.805 [main] INFO  c.e.e.esercizio1.classes.Esercizio1 - ciao
+14:31:01.433 [main] INFO  c.e.e.esercizio1.classes.Esercizio1 - ciao
+14:36:07.713 [main] INFO  c.e.e.esercizio1.main.MainClass - ciao
+14:40:29.064 [main] INFO  c.e.e.esercizio1.main.MainClass - ciao
+14:40:37.156 [main] INFO  c.e.e.esercizio1.main.MainClass - ciao
+14:40:38.420 [main] INFO  c.e.e.esercizio1.main.MainClass - ciao
+14:40:41.710 [main] INFO  c.e.e.esercizio1.main.MainClass - ciao
+14:41:02.109 [main] INFO  c.e.e.esercizio1.main.MainClass - ciao
+14:41:11.738 [main] INFO  c.e.e.esercizio1.main.MainClass - ciao
+14:48:52.224 [main] INFO  c.e.e.esercizio1.main.MainClass - ciao
+14:49:27.320 [main] INFO  c.e.e.esercizio1.main.MainClass - ciao
+14:54:12.750 [main] INFO  c.e.e.esercizio1.main.MainClass - ciao
+15:06:57.386 [main] ERROR c.e.e.esercizio1.classes.Esercizio1 - For input string: "as"
+15:22:19.949 [main] ERROR c.e.e.esercizio1.classes.Esercizio1 - Exception message
+15:22:39.522 [main] ERROR c.e.e.esercizio1.classes.Esercizio1 - Hai inserito un numero non concesso. 
+15:22:54.258 [main] ERROR c.e.e.esercizio1.classes.Esercizio1 - Index 8 out of bounds for length 5
+16:28:29.365 [main] ERROR c.e.e.esercizio1.classes.Esercizio1 - Hai inserito un numero non concesso.
+16:28:37.391 [main] ERROR c.e.e.esercizio1.classes.Esercizio1 - Hai inserito un numero non concesso.
