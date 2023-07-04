@@ -11,8 +11,8 @@ import org.slf4j.LoggerFactory;
 
 public class MainClass {
 	
-@SuppressWarnings("unused")
-private static final Logger log = LoggerFactory.getLogger(MainClass.class);
+	@SuppressWarnings("unused")
+	private static final Logger log = LoggerFactory.getLogger(MainClass.class);
 	
 	public static void main(String[] args) {
 		startEs2();
