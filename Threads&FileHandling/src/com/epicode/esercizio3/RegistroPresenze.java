@@ -14,6 +14,7 @@ public class RegistroPresenze {
 	
 	public static void main(String[] args) throws IOException {
 		salvaSuFile();
+		leggiDaFile();
 	}
 	
 	public static void salvaSuFile() throws IOException {
@@ -36,9 +37,20 @@ public class RegistroPresenze {
 		}
 	}
 	
-	public void leggiDaFile() throws IOException {
+	public static List<Presenza> leggiDaFile() throws IOException {
 		
-		FileUtils.readFileToString(file, "UTF-8");
+		String textFile = FileUtils.readFileToString(file, "UTF-8");
+
+		String[] p = textFile.split("#");
+
+		for (String s : p) {
+			System.out.println(s);
+			String[] par = s.split("@");
+			Presenza person = new Presenza(par[0], Integer.parseInt(par[1]));
+			listaPresenze.add(person);
+		}
+		
+		return listaPresenze;
 		
 	}
 	
