@@ -56,6 +56,10 @@ public class MainClass {
 		for (Product product : boysProducts) {
 			System.out.println( product );
 		}
+
+//		Esercizio #4
+		List<Product> listaTier2 = esercizio4();
+		listaTier2.forEach(p -> System.out.println(p));
 		
 	}
 	
@@ -116,7 +120,7 @@ public class MainClass {
 				new Order(
 					3, 
 					"In Consegna", 
-					LocalDate.of(2023, 6, 5), 
+					LocalDate.of(2021, 3, 5), 
 					catalogoProdotti
 						.stream()
 						.filter( e -> e.getCategory().equalsIgnoreCase("baby") )
@@ -127,6 +131,15 @@ public class MainClass {
 	
 	}
 
-	
+	private static List<Product> esercizio4() {
+		return listaOrdini
+			.stream()
+			.filter( o -> o.getCustomer().getTier() == 2 )
+			.filter(o -> o.getOrderDate().compareTo(LocalDate.of(2021, 2, 1)) >= 0)
+			.filter(o -> o.getOrderDate().compareTo(LocalDate.of(2021, 4, 1)) <= 0)
+			.flatMap(o -> o.getProducts().stream())
+			.distinct()
+			.collect(Collectors.toList());
+	}
 	
 }

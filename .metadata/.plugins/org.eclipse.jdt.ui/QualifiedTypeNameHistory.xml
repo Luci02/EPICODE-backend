@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.epicode.esercizi.Esercizio3"/>
-    <fullyQualifiedTypeName name="com.epicode.esercitazione.serale.Esercizio1"/>
-    <fullyQualifiedTypeName name="com.epicode.esercizi.Esercizio1"/>
     <fullyQualifiedTypeName name="com.epicode.esercizio1.Dipartimento"/>
     <fullyQualifiedTypeName name="com.epicode.esercizio1.Livello"/>
     <fullyQualifiedTypeName name="com.epicode.esercizi.Dipendente"/>
@@ -15,7 +12,6 @@
     <fullyQualifiedTypeName name="com.epicode.main.project.classes.ElementoMultimediale"/>
     <fullyQualifiedTypeName name="com.epicode.main.project.classes.RegistrazioneAudio"/>
     <fullyQualifiedTypeName name="com.epicode.main.project.interfaces.Luminosita"/>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="ch.qos.logback.classic.Logger"/>
     <fullyQualifiedTypeName name="com.epicode.esercizi.esercizio1.classes.Esercizio1"/>
     <fullyQualifiedTypeName name="com.epicode.esercizi.esercizio1.main.MainClass"/>
@@ -52,12 +48,16 @@
     <fullyQualifiedTypeName name="com.epicode.esercizio3.Presenza"/>
     <fullyQualifiedTypeName name="org.apache.commons.io.FileUtils"/>
     <fullyQualifiedTypeName name="java.util.stream.Stream"/>
-    <fullyQualifiedTypeName name="com.epicode.esercizio.Customer"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="com.epicode.esercizio.Order"/>
-    <fullyQualifiedTypeName name="java.time.LocalDate"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
-    <fullyQualifiedTypeName name="com.epicode.esercizio.Product"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.epicode.esercizio.Order"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="java.beans.Customizer"/>
+    <fullyQualifiedTypeName name="com.epicode.esercizio.Customer"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.epicode.esercizio.Product"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
 </qualifiedTypeNameHistroy>
