@@ -5,23 +5,24 @@ import java.util.List;
 
 public class Order {
 	
-	long id;
-	String status;
-	LocalDate orderDate, deliveryDate;
-	List<Product> products;
-	Customer customer;
+	private long id;
+	private String status;
+	private LocalDate orderDate, deliveryDate;
+	private List<Product> products;
+	private Customer customer;
 	
 //	constructor
 	public Order(long id, 
-			String status, LocalDate orderDate, 
-			LocalDate deliveryDate, List<Product> products,
+			String status, 
+			LocalDate orderDate, 
+			List<Product> products,
 			Customer customer) {
 		
 		super();
 		this.id = id;
 		this.status = status;
 		this.orderDate = orderDate;
-		this.deliveryDate = deliveryDate;
+		this.deliveryDate = orderDate.plusDays(3);
 		this.products = products;
 		this.customer = customer;
 	}
@@ -74,4 +75,10 @@ public class Order {
 		this.customer = customer;
 	}
 
+	@Override
+	public String toString() {
+		return "Order [id=" + id + ", status=" + status + ", orderDate=" + orderDate + ", deliveryDate=" + deliveryDate
+				+ ", products=" + products + ", customer=" + customer + "]";
+	}
+	
 }
