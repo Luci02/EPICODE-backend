@@ -8,8 +8,6 @@ import java.util.stream.Collectors;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import ch.qos.logback.core.rolling.helper.PeriodicityType;
-
 public class CatalogoBibliotecario {
 	
 	private static final Logger log = LoggerFactory.getLogger(CatalogoBibliotecario.class);
@@ -24,6 +22,10 @@ public class CatalogoBibliotecario {
 		aggiungiElemento(r1);
 		
 		ricercaPerISBN("9788804766087");
+		List<ElementoPubblicazione> es3 = ricercaPerAnnoPubblicazione(2022);
+		for (ElementoPubblicazione e : es3) {
+			log.info("{}", e);
+		}
 	}
 	
 	public static void aggiungiElemento(ElementoPubblicazione e) {
@@ -41,7 +43,7 @@ public class CatalogoBibliotecario {
 	}
 	
 	public static List<ElementoPubblicazione> ricercaPerAnnoPubblicazione(Integer anno) {
-		return archivio.values().stream().collect(Collectors.toList());
+		return archivio.values().stream().filter( e -> e.getAnnoPubblicazione().equals(anno) ).collect(Collectors.toList());
 	}
 
 }
