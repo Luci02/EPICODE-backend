@@ -36,9 +36,6 @@ public class Rivista extends ElementoPubblicazione {
 	
 	public static Rivista fromStringFile(String stringFile) {
 		String[] strMod = stringFile.split("@");
-		Periodicita periodicita = Periodicita.valueOf(strMod[5]);
-		
-		return new Rivista(strMod[1], strMod[2], Integer.valueOf(strMod[3]), Integer.valueOf(strMod[4]), periodicita);
+		return new Rivista(strMod[1], strMod[2], Integer.valueOf(strMod[3]), Integer.valueOf(strMod[4]), Periodicita.valueOf(strMod[5]));
 	}
-
 }

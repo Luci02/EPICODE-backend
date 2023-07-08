@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.epicode.main.project.Immagine"/>
-    <fullyQualifiedTypeName name="com.epicode.main.project.classes.ElementoMultimediale"/>
     <fullyQualifiedTypeName name="com.epicode.main.project.classes.RegistrazioneAudio"/>
     <fullyQualifiedTypeName name="com.epicode.main.project.interfaces.Luminosita"/>
     <fullyQualifiedTypeName name="ch.qos.logback.classic.Logger"/>
@@ -32,9 +30,7 @@
     <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="com.epicode.esercizio2.MyThread"/>
-    <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="com.epicode.esercizio3.Presenza"/>
-    <fullyQualifiedTypeName name="org.apache.commons.io.FileUtils"/>
     <fullyQualifiedTypeName name="java.util.stream.Stream"/>
     <fullyQualifiedTypeName name="com.epicode.esercizio.Order"/>
     <fullyQualifiedTypeName name="java.lang.Object"/>
@@ -52,12 +48,16 @@
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="com.epicode.progetto.settimanale.Libro"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="com.epicode.progetto.settimanale.Riviste"/>
     <fullyQualifiedTypeName name="ch.qos.logback.core.rolling.helper.PeriodicityType"/>
     <fullyQualifiedTypeName name="com.epicode.progetto.settimanale.Rivista"/>
     <fullyQualifiedTypeName name="com.epicode.progetto.settimanale.Periodicita"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.epicode.progetto.settimanale.ElementoPubblicazione"/>
+    <fullyQualifiedTypeName name="com.epicode.progetto.settimanale.classes.Libro"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="org.apache.commons.io.FileUtils"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.epicode.progetto.settimanale.classes.ElementoPubblicazione"/>
 </qualifiedTypeNameHistroy>

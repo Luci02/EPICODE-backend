@@ -45,7 +45,6 @@ public class Libro extends ElementoPubblicazione {
 	
 	public static Libro fromStringFile(String stringFile) {
 		String[] strMod = stringFile.split("@");
-		
 		return new Libro(strMod[1], strMod[2], Integer.valueOf(strMod[3]), Integer.valueOf(strMod[4]), strMod[5], strMod[6]);
 	}
 	

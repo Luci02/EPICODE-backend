@@ -98,19 +98,17 @@ public class CatalogoBibliotecario {
 		
 		String txt = FileUtils.readFileToString(file, "UTF-8");
 		
-		List<String> splitElementiString = Arrays.asList(txt.split("#"));
+		List<String> lista = Arrays.asList(txt.split("#"));
 
-		for (String curString : splitElementiString) {
+		for (String e : lista) {
 			ElementoPubblicazione elemento = null;
-			if ( curString.startsWith(Libro.class.getSimpleName()) ) {
-				elemento = Libro.fromStringFile(curString);
-			} else if ( curString.startsWith(Rivista.class.getSimpleName()) ) {
-				elemento= Rivista.fromStringFile(curString);
+			if ( e.startsWith(Libro.class.getSimpleName()) ) {
+				elemento = Libro.fromStringFile(e);
+			} else if ( e.startsWith(Rivista.class.getSimpleName()) ) {
+				elemento= Rivista.fromStringFile(e);
 			}
 			archivio.put(elemento.getISBN(), elemento);
-			
 		}
 		log.info("Dati caricati correttamente dal file " + file.getPath());
 	}
-
 }
