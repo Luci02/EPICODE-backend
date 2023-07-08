@@ -1,4 +1,4 @@
-package com.epicode.progetto.settimanale;
+package com.epicode.progetto.settimanale.classes;
 
 public class Libro extends ElementoPubblicazione {
 	
@@ -31,6 +31,22 @@ public class Libro extends ElementoPubblicazione {
 	public String toString() {
 		return "Libro [autore=" + autore + ", genere=" + genere + ", ISBN=" + ISBN + ", titolo=" + titolo
 				+ ", annoPubblicazione=" + annoPubblicazione + ", nPagine=" + nPagine + "]";
+	}
+	
+	public static String toStringFile(Libro libro) {
+		return Libro.class.getSimpleName()
+				+ "@" + libro.ISBN
+				+ "@" + libro.titolo
+				+ "@" + libro.annoPubblicazione
+				+ "@" + libro.nPagine
+				+ "@" + libro.autore
+				+ "@" + libro.genere;
+	}
+	
+	public static Libro fromStringFile(String stringFile) {
+		String[] strMod = stringFile.split("@");
+		
+		return new Libro(strMod[1], strMod[2], Integer.valueOf(strMod[3]), Integer.valueOf(strMod[4]), strMod[5], strMod[6]);
 	}
 	
 	

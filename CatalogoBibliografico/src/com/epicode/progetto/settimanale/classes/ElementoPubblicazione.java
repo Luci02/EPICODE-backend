@@ -1,4 +1,4 @@
-package com.epicode.progetto.settimanale;
+package com.epicode.progetto.settimanale.classes;
 
 public abstract class ElementoPubblicazione {
 	

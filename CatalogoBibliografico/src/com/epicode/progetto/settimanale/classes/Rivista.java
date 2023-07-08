@@ -1,4 +1,6 @@
-package com.epicode.progetto.settimanale;
+package com.epicode.progetto.settimanale.classes;
+
+import com.epicode.progetto.settimanale.enums.Periodicita;
 
 public class Rivista extends ElementoPubblicazione {
 	
@@ -21,6 +23,22 @@ public class Rivista extends ElementoPubblicazione {
 	public String toString() {
 		return "Riviste [periodicita=" + periodicita + ", ISBN=" + ISBN + ", titolo=" + titolo + ", annoPubblicazione="
 				+ annoPubblicazione + ", nPagine=" + nPagine + "]";
+	}
+	
+	public static String toStringFile(Rivista rivista) {
+		return Rivista.class.getSimpleName()
+				+ "@" + rivista.ISBN
+				+ "@" + rivista.titolo
+				+ "@" + rivista.annoPubblicazione
+				+ "@" + rivista.nPagine
+				+ "@" + rivista.periodicita;
+	}
+	
+	public static Rivista fromStringFile(String stringFile) {
+		String[] strMod = stringFile.split("@");
+		Periodicita periodicita = Periodicita.valueOf(strMod[5]);
+		
+		return new Rivista(strMod[1], strMod[2], Integer.valueOf(strMod[3]), Integer.valueOf(strMod[4]), periodicita);
 	}
 
 }
