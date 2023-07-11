@@ -1,16 +1,16 @@
 package com.epicode.main;
 
-import java.sql.Date;
+import java.time.LocalDate;
 
 public class Studente {
 	
-	private Integer id;
+	private Long id;
 	private String name, lastname;
 	Gender gender;
-	private Date birthdate;
+	private LocalDate birthdate;
 	private Double avg, min_vote, max_vote;
 	
-	public Studente(String name, String lastname, Gender gender, Date birthdate, Double avg,
+	public Studente(String name, String lastname, Gender gender, LocalDate birthdate, Double avg,
 			Double min_vote, Double max_vote) {
 		this.name = name;
 		this.lastname = lastname;
@@ -21,7 +21,7 @@ public class Studente {
 		this.max_vote = max_vote;
 	}
 	
-	public Studente(Integer id, String name, String lastname, Gender gender, Date birthdate, Double avg,
+	public Studente(Long id, String name, String lastname, Gender gender, LocalDate birthdate, Double avg,
 			Double min_vote, Double max_vote) {
 		this.id = id;
 		this.name = name;
@@ -33,11 +33,11 @@ public class Studente {
 		this.max_vote = max_vote;
 	}
 
-	public Integer getId() {
+	public Long getId() {
 		return id;
 	}
 
-	public void setId(Integer id) {
+	public void setId(Long id) {
 		this.id = id;
 	}
 
@@ -65,11 +65,11 @@ public class Studente {
 		this.gender = gender;
 	}
 
-	public Date getBirthdate() {
+	public LocalDate getBirthdate() {
 		return birthdate;
 	}
 
-	public void setBirthdate(Date birthdate) {
+	public void setBirthdate(LocalDate birthdate) {
 		this.birthdate = birthdate;
 	}
 
