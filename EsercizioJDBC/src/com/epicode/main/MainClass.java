@@ -33,15 +33,15 @@ public class MainClass {
 //					Gender.f,
 //					new java.sql.Date(new java.util.Date("1991/08/16").getTime()),
 //					10d,
-//					10d,
-//					9d
+//					9d,
+//					10d
 //					);
 
 //			db.insertStudent(s1);
 //			db.insertStudent(s2);
 //			db.insertStudent(s3);
 			
-			db.getBest();
+			db.getVoteRange(0, 10);
 			
 		} catch (SQLException e) {
 			e.printStackTrace();

@@ -93,5 +93,29 @@ public class DbConnection {
 		}
 		System.out.println(s);
 	}
+	
+	public void getVoteRange(double min, double max) throws SQLException {
+		Studente s;
+		HashMap<Long, Studente> list = new HashMap<Long, Studente>();
+		String query = "select * from school_students "
+				+ " where "
+				+ " min_vote >= " + min
+				+ " AND "
+				+ " max_vote <= " + max;
+		ResultSet rs = st.executeQuery(query);
+		while(rs.next()) {
+			long id = rs.getInt("id");
+			String name = rs.getString("name");
+			String lastname = rs.getString("lastname");
+			String gender = rs.getString("gender");
+			LocalDate birthdate = rs.getDate("birthdate").toLocalDate();
+			double avg = rs.getDouble("avg");
+			double min_vote = rs.getDouble("min_vote");
+			double max_vote = rs.getDouble("max_vote");
+			s = new Studente(id, name, lastname, Gender.valueOf(gender), birthdate, avg, min_vote, max_vote);
+			list.put(s.getId(), s);
+		}
+		list.forEach( (k,v) -> System.out.println(v) );
+	}
 
 }
