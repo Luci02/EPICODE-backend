@@ -41,6 +41,8 @@ public class MainClass {
 //			db.insertStudent(s2);
 //			db.insertStudent(s3);
 			
+			db.getBest();
+			
 		} catch (SQLException e) {
 			e.printStackTrace();
 			System.out.println(e.getMessage());

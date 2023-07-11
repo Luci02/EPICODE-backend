@@ -1,10 +1,12 @@
 package com.epicode.main;
 
 import java.sql.Connection;
+import java.sql.Date;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.time.LocalDate;
 import java.util.HashMap;
 
 public class DbConnection {
@@ -77,9 +79,19 @@ public class DbConnection {
 	public void getBest() throws SQLException {
 		String query = "SELECT * FROM school_students ORDER BY avg DESC LIMIT 1";
 		ResultSet rs = st.executeQuery(query);
+		Studente s = null;
 		if(rs.next()) {
-			s 
+			long id = rs.getInt("id");
+			String name = rs.getString("name");
+			String lastname = rs.getString("lastname");
+			String gender = rs.getString("gender");
+			LocalDate birthdate = rs.getDate("birthdate").toLocalDate();
+			double avg = rs.getDouble("avg");
+			double min_vote = rs.getDouble("min_vote");
+			double max_vote = rs.getDouble("max_vote");
+			s = new Studente(id, name, lastname, Gender.valueOf(gender), birthdate, avg, min_vote, max_vote);
 		}
+		System.out.println(s);
 	}
 
 }
