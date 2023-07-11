@@ -54,10 +54,22 @@ public class DbConnection {
 		System.out.println("Studente " + s.getName() + " " + s.getLastname() + " inserito correttamente nel DB!");
 	}
 	
-	public void updateStudent(int id, HashMap<String, Object> s) {}
+	public void updateStudent(long id, HashMap<String, Object> s) throws SQLException {
+		String query = "UPDATE school_students SET "
+				   + " name = '" + s.get("name").toString() + "', "
+				   + " lastname = '" + s.get("lastname").toString() + "', "
+				   + " gender = '" + s.get("gender").toString() + "', "
+				   + " birthdate = '" + s.get("birthdate") + "', "
+				   + " avg = " + s.get("avg") + ", "
+				   + " min_vote = " + s.get("min_vote") + ", "
+				   + " max_vote = " + s.get("max_vote")
+				   + " WHERE id = " + id;
+		st.executeUpdate(query);
+		System.out.println("Dati dello studente " + s.get("name") + " " + s.get("lastname") + " modificati con successo!!!");
+	}
 	
-	public void deleteStudent(int id) throws SQLException {
-		String query = "DELETE FROM school_students WHERE id="+id;
+	public void deleteStudent(long id) throws SQLException {
+		String query = "DELETE FROM school_students WHERE id = "+id;
 		st.executeUpdate(query);
 		System.out.println("Studente rimosso dal DB con successo!");
 	}
