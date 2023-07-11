@@ -3,6 +3,16 @@
   <groupId>EsercizioJDBC</groupId>
   <artifactId>EsercizioJDBC</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+<dependencies>
+	<!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
+	<dependency>
+	<groupId>org.postgresql</groupId>
+	<artifactId>postgresql</artifactId>
+	<version>42.6.0</version>
+	</dependency>
+</dependencies>
+  
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
