@@ -5,11 +5,23 @@ import java.sql.Date;
 public class Studente {
 	
 	private Integer id;
-	private String name, lastname, gender;
+	private String name, lastname;
+	Gender gender;
 	private Date birthdate;
 	private Double avg, min_vote, max_vote;
 	
-	public Studente(Integer id, String name, String lastname, String gender, Date birthdate, Double avg,
+	public Studente(String name, String lastname, Gender gender, Date birthdate, Double avg,
+			Double min_vote, Double max_vote) {
+		this.name = name;
+		this.lastname = lastname;
+		this.gender = gender;
+		this.birthdate = birthdate;
+		this.avg = avg;
+		this.min_vote = min_vote;
+		this.max_vote = max_vote;
+	}
+	
+	public Studente(Integer id, String name, String lastname, Gender gender, Date birthdate, Double avg,
 			Double min_vote, Double max_vote) {
 		this.id = id;
 		this.name = name;
@@ -45,11 +57,11 @@ public class Studente {
 		this.lastname = lastname;
 	}
 
-	public String getGender() {
+	public Gender getGender() {
 		return gender;
 	}
 
-	public void setGender(String gender) {
+	public void setGender(Gender gender) {
 		this.gender = gender;
 	}
 
