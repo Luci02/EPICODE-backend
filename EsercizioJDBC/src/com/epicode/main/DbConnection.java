@@ -69,7 +69,7 @@ public class DbConnection {
 	}
 	
 	public void deleteStudent(long id) throws SQLException {
-		String query = "DELETE FROM school_students WHERE id = "+id;
+		String query = "DELETE FROM school_students WHERE id = " + id;
 		st.executeUpdate(query);
 		System.out.println("Studente rimosso dal DB con successo!");
 	}
@@ -77,6 +77,9 @@ public class DbConnection {
 	public void getBest() throws SQLException {
 		String query = "SELECT * FROM school_students ORDER BY avg DESC LIMIT 1";
 		ResultSet rs = st.executeQuery(query);
+		if(rs.next()) {
+			s 
+		}
 	}
 
 }
