@@ -11,8 +11,6 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-import com.epicode.enumerated.TipoEvento;
-
 @Entity
 @Table(name = "eventi")
 public class Evento {

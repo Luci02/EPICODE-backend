@@ -1,4 +1,4 @@
-package com.epicode.enumerated;
+package com.epicode.model;
 
 public enum TipoEvento {
 	PUBBLICO,

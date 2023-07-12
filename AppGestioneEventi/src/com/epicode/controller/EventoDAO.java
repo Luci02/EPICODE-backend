@@ -7,8 +7,8 @@ import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
-import com.epicode.enumerated.TipoEvento;
 import com.epicode.model.Evento;
+import com.epicode.model.TipoEvento;
 
 public class EventoDAO {
 	
@@ -23,7 +23,9 @@ public class EventoDAO {
 			Evento e2 = new Evento("Checco Zalone - Amore + Iva", LocalDate.of(2023, 8, 9), TipoEvento.PRIVATO, 50);
 			Evento e3 = new Evento("Tiziano Ferro - TZN 2023", LocalDate.of(2023, 07, 14), TipoEvento.PUBBLICO, 600);
 			
-			save(e1);
+			save(e3);
+			
+			getById(1);
 			
 		} catch (SQLException e) {
 			e.printStackTrace();
@@ -32,8 +34,6 @@ public class EventoDAO {
 			emf.close();
 			em.close();
 		}
-		
-		
 		
 	}
 	
