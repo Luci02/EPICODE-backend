@@ -55,6 +55,7 @@ public class CatalogoBibliotecario {
 			// ricercaPerTitolo("o");
 			// ricercaPrestitoDaTessera("XP47093505");
 			// ricercaPrestitiScadutiNonRestituiti(LocalDate.of(2024, 07, 14));
+			// rimuovi("9783534492718");
 			
 		}catch (SQLException e) {
 			e.printStackTrace();
@@ -91,6 +92,7 @@ public class CatalogoBibliotecario {
 		ElementoLetterario e = em.find(ElementoLetterario.class, ISBN);
 		em.remove(e);
 		em.getTransaction().commit();
+		System.out.println("Elemento rimosso dal DB: " + e);
 	}
 	
 	static void ricercaPerIsbn(String ISBN) throws SQLException {
