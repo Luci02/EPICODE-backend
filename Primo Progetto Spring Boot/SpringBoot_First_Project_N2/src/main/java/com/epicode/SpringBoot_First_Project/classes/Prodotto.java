@@ -2,24 +2,24 @@ package com.epicode.SpringBoot_First_Project.classes;
 
 public abstract class Prodotto {
 	
-	private Double prezzo;
+	private Double price;
 
-	public Prodotto(Double prezzo) {
+	public Prodotto(Double price) {
 		super();
-		this.prezzo = prezzo;
+		this.price = price;
 	}
 
-	public Double getPrezzo() {
-		return prezzo;
+	public Double getPrice() {
+		return price;
 	}
 
-	public void setPrezzo(Double prezzo) {
-		this.prezzo = prezzo;
+	public void setPrice(Double price) {
+		this.price = price;
 	}
 
 	@Override
 	public String toString() {
-		return "Prodotto [prezzo=" + prezzo + "]";
+		return "Prodotto [prezzo=" + price + "]";
 	}
 
 }
