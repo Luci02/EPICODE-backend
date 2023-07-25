@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+    <typeInfo handle="=SpringBoot_First_Project/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.epicode.SpringBoot_First_Project.classes{Prodotto.java[Prodotto" modifiers="1025" timestamp="1690236929837"/>
+    <typeInfo handle="=SpringBoot_First_Project/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.epicode.SpringBoot_First_Project.classes{Pizza.java[Pizza" modifiers="1025" timestamp="1690237060827"/>
+    <typeInfo handle="=GodfathersPizza/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.epicode.classes{Pizza.java[Pizza" modifiers="1025" timestamp="1690315205017"/>
+</typeInfoHistroy>
