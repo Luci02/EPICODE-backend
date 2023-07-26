@@ -8,14 +8,14 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.PropertySource;
 
 import lombok.Data;
+import lombok.Getter;
 import lombok.NoArgsConstructor;
+import lombok.Setter;
+import lombok.ToString;
 
 @NoArgsConstructor
 @Data
-@PropertySource("classpath:application.properties")
 public class Ordine {
-	
-	@Value("costo.coperto") private Double costoCoperto;
 
 	private Integer numeroOrdine;
 	private Tavolo tavolo;
@@ -25,40 +25,6 @@ public class Ordine {
 	private Integer numeroCoperti;
 	private LocalTime oraAquisizione;
 	private Double importoTotale;
-	
-	public Ordine(Integer numeroOrdine, Tavolo tavolo, List<Consumabile> ordineTavolo, Stato stato,
-			Integer numeroCoperti, LocalTime oraAquisizione) {
-		super();
-		this.numeroOrdine = numeroOrdine;
-		this.tavolo = tavolo;
-		this.ordineTavolo = ordineTavolo;
-		this.stato = stato;
-		this.numeroCoperti = numeroCoperti;
-		this.oraAquisizione = oraAquisizione;
-		
-		for (Consumabile consumabile : ordineTavolo) {
-			this.importoTotale += consumabile.getPrezzo();
-		}
-		
-		this.importoTotale += costoCoperto * numeroCoperti;
-	}
-
-	public Ordine(Integer numeroOrdine, Tavolo tavolo, List<Consumabile> ordineTavolo, String nota,
-			Stato stato, Integer numeroCoperti, LocalTime oraAquisizione) {
-		super();
-		this.numeroOrdine = numeroOrdine;
-		this.tavolo = tavolo;
-		this.ordineTavolo = ordineTavolo;
-		this.nota = nota;
-		this.stato = stato;
-		this.numeroCoperti = numeroCoperti;
-		this.oraAquisizione = oraAquisizione;
-		
-		for (Consumabile consumabile : ordineTavolo) {
-			this.importoTotale += consumabile.getPrezzo();
-		}
-		
-		this.importoTotale += costoCoperto * numeroCoperti;
-	}
+	private Double costoCoperto;
 
 }
