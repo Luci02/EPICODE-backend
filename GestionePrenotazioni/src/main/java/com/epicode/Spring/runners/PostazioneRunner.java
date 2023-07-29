@@ -27,7 +27,7 @@ public class PostazioneRunner implements CommandLineRunner {
 		Faker f = new Faker(Locale.ITALY);
 		Random r = new Random();
 		Tipo[] tipoPostazione = Tipo.values();
-		List<Edificio> listaEdifici = edificioService.trovaListaEdifici();
+		List<Edificio> listaEdifici = edificioService.FindAllEdificio();
 		
 		listaEdifici.forEach(edificio -> {
 			for (int i = 0; i < 5; i++) {
@@ -36,7 +36,7 @@ public class PostazioneRunner implements CommandLineRunner {
 			}
 		});
 		
-		List<Postazione> listapostazioni = edificioService.trovaPostazioneTipoCitta(Tipo.PRIVATO, "Rozzano");
+		List<Postazione> listapostazioni = edificioService.findPostazioneByTipoAndCitta(Tipo.PRIVATO, "Rozzano");
 		
 		listapostazioni.forEach( p -> System.out.println(p) );
 		

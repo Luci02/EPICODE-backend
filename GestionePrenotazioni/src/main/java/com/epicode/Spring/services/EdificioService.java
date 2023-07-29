@@ -5,7 +5,6 @@ import java.util.List;
 import org.springframework.beans.factory.ObjectProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.core.annotation.Order;
 import org.springframework.stereotype.Service;
 
 import com.epicode.Spring.models.Edificio;
@@ -47,7 +46,7 @@ public class EdificioService {
 		log.info( "{} aggiunto correttamente nel DB!", edificio.getNome() );
 	}
 	
-	public List<Edificio> trovaListaEdifici() {
+	public List<Edificio> FindAllEdificio() {
 		return (List<Edificio>) edificioRepository.findAll();
 	}
 	
@@ -56,7 +55,7 @@ public class EdificioService {
 		log.info( "{} in {} aggiunta correttamente nel DB!", postazione.getDescrizione(), postazione.getEdificio() );
 	}
 	
-	public List<Postazione> trovaPostazioneTipoCitta(Tipo tipo, String citta) {
+	public List<Postazione> findPostazioneByTipoAndCitta(Tipo tipo, String citta) {
 		return postazioneRepository.findPostazioneByTipoAndCitta(tipo, citta);
 	}
 	
