@@ -4090,3 +4090,234 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 20:04:48.807
 !MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 20:19:17.998
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 20:19:18.017
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 20:19:18.018
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 20:19:18.019
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 20:19:18.019
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 20:19:18.025
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 20:19:18.029
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 20:19:28.382
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 20:21:23.549
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 20:21:35.327
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 20:21:44.312
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 20:25:29.689
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 20:25:29.706
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 20:25:29.706
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 20:25:29.707
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 20:25:29.708
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 20:25:29.713
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 20:25:29.716
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 20:25:52.431
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 20:26:00.935
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 20:27:58.647
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 20:29:09.003
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 20:29:09.023
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 20:29:09.024
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 20:29:09.025
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 20:29:09.026
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 20:29:09.034
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 20:29:09.038
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 20:33:13.955
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 20:34:04.006
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 20:35:32.426
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 20:35:38.418
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 23:32:09.568
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:32:09.593
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:32:09.594
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:32:09.595
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:32:09.596
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:32:09.604
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:32:09.608
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 23:32:36.048
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 23:32:41.711
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 23:38:20.093
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:38:20.107
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:38:20.107
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:38:20.108
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:38:20.108
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:38:20.113
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:38:20.115
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 23:40:37.914
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:40:37.932
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:40:37.932
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:40:37.933
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:40:37.934
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:40:37.941
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:40:37.943
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 23:40:53.651
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 23:47:15.288
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:47:15.305
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:47:15.306
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:47:15.307
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:47:15.308
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:47:15.314
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-29 23:47:15.316
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 23:47:42.453
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 23:48:46.206
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 23:51:15.233
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 23:52:37.584
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 23:53:54.965
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 23:57:36.604
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-29 23:58:57.165
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-30 00:00:45.902
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-30 00:09:20.143
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-30 00:10:43.992
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-30 00:12:27.964
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-30 00:13:33.495
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-30 00:14:21.352
+!MESSAGE Classpath changed for project: GestionePrenotazioni
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-30 00:14:56.963
+!MESSAGE Classpath changed for project: GestionePrenotazioni

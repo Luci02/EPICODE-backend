@@ -1,5 +1,7 @@
 package com.epicode.Spring.services;
 
+import java.util.List;
+
 import org.springframework.beans.factory.ObjectProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
@@ -32,6 +34,10 @@ public class UtenteService {
 	public void salvaUtente(Utente utente) {
 		utenteRepository.save(utente);
 		log.info("{} aggiunto correttamente nel DB!", utente.getNomeCompleto());
+	}
+	
+	public List<Utente> findAllUtenti() {
+		return (List<Utente>) utenteRepository.findAll();
 	}
 
 }

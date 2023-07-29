@@ -55,4 +55,12 @@ public class EdificioService {
 		postazioneRepository.save(postazione);
 		log.info( "{} in {} aggiunta correttamente nel DB!", postazione.getDescrizione(), postazione.getEdificio() );
 	}
+	
+	public List<Postazione> trovaPostazioneTipoCitta(Tipo tipo, String citta) {
+		return postazioneRepository.findPostazioneByTipoAndCitta(tipo, citta);
+	}
+	
+	public List<Postazione> findAllPostazione() {
+		return (List<Postazione>) postazioneRepository.findAll();
+	}
 }

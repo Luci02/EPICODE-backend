@@ -27,6 +27,9 @@ public class EdificioRunner implements CommandLineRunner {
 			edificioService.salvaEdificio(edificio);
 		}
 		
+		Edificio edificio = edificioService.creaEdificio(f.company().name(), f.address().fullAddress(), "Rozzano");
+		edificioService.salvaEdificio(edificio);
+		
 	}
 
 }

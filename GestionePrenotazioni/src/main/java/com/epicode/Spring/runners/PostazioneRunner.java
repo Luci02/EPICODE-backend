@@ -36,6 +36,10 @@ public class PostazioneRunner implements CommandLineRunner {
 			}
 		});
 		
+		List<Postazione> listapostazioni = edificioService.trovaPostazioneTipoCitta(Tipo.PRIVATO, "Rozzano");
+		
+		listapostazioni.forEach( p -> System.out.println(p) );
+		
 	}
 
 }

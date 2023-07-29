@@ -32,8 +32,21 @@ public class PrenotazioneService {
 	// Metodi JPA
 	
 	public void salvaPrenotazione(Prenotazione prenotazione) {
-		prenotazioneRepository.save(prenotazione);
-		log.info("Prenotazione aggiunta correttamente nel DB!");
+		
+		if ( prenotazioneRepository.findPrenotazioneByDataAndPostazione(prenotazione.getGiornoPrenotazione(), prenotazione.getPostazione()) == null ) {
+			
+			if ( prenotazioneRepository.findPrenotazioneByUtenteAndData(prenotazione.getUtente(), prenotazione.getGiornoPrenotazione()) == null ) {
+				
+				prenotazioneRepository.save(prenotazione);
+				log.info("Prenotazione aggiunta correttamente nel DB!");
+				
+			}else {
+				log.info("L'utente {} ha già una prenotazione attiva per quella data", prenotazione.getUtente().getNomeCompleto());
+			}
+			
+		}else {
+			log.info("La postazione selezionata non è disponibile per quella data!");
+		}
 	}
 
 }
