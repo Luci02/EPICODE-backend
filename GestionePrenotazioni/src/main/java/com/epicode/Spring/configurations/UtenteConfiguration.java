@@ -6,10 +6,7 @@ import org.springframework.stereotype.Component;
 
 import com.epicode.Spring.models.Utente;
 
-import lombok.extern.slf4j.Slf4j;
-
 @Component
-@Slf4j
 public class UtenteConfiguration {
 	
 	@Bean("newUtente")
