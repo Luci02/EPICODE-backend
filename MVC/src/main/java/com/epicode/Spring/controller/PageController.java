@@ -5,6 +5,8 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 
 import com.epicode.Spring.models.User;
@@ -31,6 +33,11 @@ public class PageController {
 		ModelAndView model = new ModelAndView("address-book");
 		model.addObject("lista", listaUtenti);
 		return model;
+	}
+	
+	@GetMapping("/address-book/{id}")
+	public @ResponseBody String getCDK(@PathVariable String id) {
+		return "user " + id;
 	}
 	
 }
