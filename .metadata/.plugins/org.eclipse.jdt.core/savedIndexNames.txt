@@ -2,6 +2,5 @@ INDEX VERSION 1.134+C:\Users\Luciano Parlato\eclipse-workspace\.metadata\.plugin
 1211989454.index
 1865797976.index
 3689519981.index
-2224652853.index
 1063588013.index
 926509909.index

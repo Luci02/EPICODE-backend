@@ -8661,3 +8661,1068 @@ java.lang.InterruptedException
 
 !ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 11:15:39.423
 !MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 11:41:45.767
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 11:41:45.768
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 11:41:45.769
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 11:41:45.769
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 11:41:45.776
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 11:41:45.779
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:04:36.380
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:04:36.406
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:04:36.407
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:04:36.408
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:04:36.409
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:04:36.417
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:04:36.421
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:04:55.434
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:05:11.578
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:05:11.601
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:05:11.602
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:05:11.603
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:05:11.604
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:05:11.612
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:05:11.617
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:05:17.694
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:05:39.455
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:05:39.475
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:05:39.476
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:05:39.476
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:05:39.477
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:05:39.483
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:05:39.485
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:05:56.233
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:05:56.258
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:05:56.259
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:05:56.260
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:05:56.261
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:05:56.270
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:05:56.274
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:06:43.631
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:06:43.650
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:06:43.651
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:06:43.652
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:06:43.653
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:06:43.661
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:06:43.665
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:06:51.235
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:08:59.119
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:08:59.138
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:08:59.139
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:08:59.140
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:08:59.141
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:08:59.146
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:08:59.149
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:10:46.815
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:12:22.541
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:12:29.864
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:13:04.639
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:13:04.657
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:13:04.658
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:13:04.659
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:13:04.659
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:13:04.665
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:13:04.668
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:13:35.050
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:14:23.279
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:15:22.570
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:15:53.284
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:16:04.315
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:16:45.882
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:17:27.418
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:17:27.436
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:17:27.436
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:17:27.437
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:17:27.437
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:17:27.443
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:17:27.446
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:17:41.609
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:18:23.853
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:18:38.888
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:18:55.578
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:18:55.599
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:18:55.600
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:18:55.601
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:18:55.602
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:18:55.610
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:18:55.613
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:19:13.531
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:19:13.549
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:19:13.550
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:19:13.551
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:19:13.551
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:19:13.557
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:19:13.561
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:19:15.845
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:19:24.356
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:19:32.229
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:19:32.247
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:19:32.248
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:19:32.249
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:19:32.249
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:19:32.257
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:19:32.261
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:19:40.334
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:19:40.351
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:19:40.351
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:19:40.352
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:19:40.353
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:19:40.358
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:19:40.362
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:25:24.901
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:35:07.125
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:35:07.145
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:35:07.146
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:35:07.147
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:35:07.147
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:35:07.155
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:35:07.159
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:35:26.121
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:35:38.904
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:35:38.921
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:35:38.922
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:35:38.923
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:35:38.923
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:35:38.929
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:35:38.932
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:36:00.464
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 12:36:10.439
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:36:10.459
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:36:10.460
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:36:10.461
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:36:10.462
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:36:10.470
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 12:36:10.474
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:01:49.564
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:01:49.609
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:01:49.610
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:01:49.611
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:01:49.612
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:01:49.623
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:01:49.628
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:02:28.758
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:03:01.957
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:06:21.836
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:07:03.009
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:07:08.974
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:07:37.655
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:07:37.676
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:07:37.677
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:07:37.678
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:07:37.679
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:07:37.691
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:07:37.697
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:09:54.199
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:10:05.079
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:10:20.078
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:11:45.346
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:11:45.364
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:11:45.366
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:11:45.367
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:11:45.368
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:11:45.373
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:11:45.376
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:11:48.605
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:12:04.878
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:12:24.462
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:12:28.707
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:12:45.640
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:12:45.657
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:12:45.657
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:12:45.658
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:12:45.658
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:12:45.664
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:12:45.667
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:12:51.680
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:13:02.769
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:13:02.794
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:13:02.795
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:13:02.796
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:13:02.797
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:13:02.804
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:13:02.808
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:13:49.923
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:14:16.133
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:14:16.151
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:14:16.152
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:14:16.153
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:14:16.154
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:14:16.159
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:14:16.162
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:14:59.433
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:15:03.297
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:15:09.911
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:16:05.544
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:16:05.564
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:16:05.565
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:16:05.565
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:16:05.566
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:16:05.572
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:16:05.575
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:16:23.417
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:16:45.893
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:17:32.220
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:17:32.240
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:17:32.241
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:17:32.242
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:17:32.243
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:17:32.265
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:17:32.268
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:17:51.967
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:18:09.224
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:18:09.245
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:18:09.246
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:18:09.247
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:18:09.248
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:18:09.255
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:18:09.258
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:18:15.907
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:18:34.198
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:18:47.986
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:19:04.609
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:19:59.180
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:21:36.609
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:22:08.834
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:22:08.855
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:22:08.856
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:22:08.857
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:22:08.858
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:22:08.863
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:22:08.865
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:23:40.972
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:23:40.996
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:23:40.997
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:23:40.998
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:23:40.999
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:23:41.007
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:23:41.011
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:24:12.239
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:24:25.743
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:24:35.276
+!MESSAGE Classpath changed for project: Spring_7
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:24:35.277
+!MESSAGE Boot project REMOVED: Spring_7
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:25:12.853
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:26:07.659
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:26:07.677
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:26:07.678
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:26:07.679
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:26:07.679
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:26:07.685
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:26:07.688
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:26:12.929
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:27:39.635
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:28:40.290
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:28:59.980
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:30:55.155
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:31:10.274
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:32:01.438
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:32:19.969
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:32:19.988
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:32:19.989
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:32:19.990
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:32:19.990
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:32:19.997
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:32:20.001
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:33:21.621
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:35:57.264
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:36:04.712
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:36:40.604
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:36:40.624
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:36:40.624
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:36:40.626
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:36:40.627
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:36:40.634
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:36:40.638
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:37:07.096
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:37:12.058
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:38:20.575
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:40:02.743
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:41:00.736
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:41:13.748
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:41:13.768
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:41:13.768
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:41:13.769
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:41:13.770
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:41:13.775
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:41:13.778
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:41:46.648
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:42:31.896
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:42:31.915
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:42:31.916
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:42:31.916
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:42:31.917
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:42:31.922
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:42:31.925
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:46:04.225
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:48:35.703
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:53:35.428
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:53:55.986
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:54:08.757
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:54:08.781
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:54:08.783
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:54:08.784
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:54:08.785
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:54:08.794
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:54:08.797
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:56:04.847
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:56:04.865
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:56:04.865
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:56:04.866
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:56:04.867
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:56:04.872
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 15:56:04.874
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:56:10.124
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:56:13.761
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:57:12.021
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:58:18.276
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 15:59:12.028
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 16:00:26.327
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 16:01:16.742
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 16:02:15.416
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 16:02:27.090
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 16:05:55.683
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 16:07:42.185
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 16:19:03.910
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 16:19:53.863
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:19:53.880
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:19:53.881
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:19:53.882
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:19:53.882
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:19:53.888
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:19:53.891
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 16:21:02.907
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:21:02.928
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:21:02.929
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:21:02.930
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:21:02.931
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:21:02.936
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:21:02.939
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 16:21:39.382
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 16:21:52.562
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:21:52.582
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:21:52.583
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:21:52.584
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:21:52.585
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:21:52.593
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:21:52.598
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 16:23:12.274
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 16:23:24.722
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 16:23:33.788
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 16:23:48.329
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 16:26:23.931
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 16:27:41.132
+!MESSAGE Classpath changed for project: GestioneDispositivi
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:27:41.151
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:27:41.151
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:27:41.152
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:27:41.153
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:27:41.159
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-08-04 16:27:41.160
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-04 16:27:50.883
+!MESSAGE Classpath changed for project: GestioneDispositivi
