@@ -19,10 +19,10 @@ public class UtenteConfiguration {
 		String name = f.name().firstName();
 		String surname = f.name().lastName();
 		return Utente.builder()
-				.username(name+"."+surname)
+				.username((name+"_"+surname).toLowerCase())
 				.nome(name)
 				.cognome(surname)
-				.email(name+"."+surname+"@mail.com")
+				.email( (name+"."+surname+"@mail.com").toLowerCase() )
 				.build();
 	}
 	

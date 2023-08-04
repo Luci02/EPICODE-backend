@@ -22,7 +22,6 @@ public class DispositivoRunner implements CommandLineRunner {
 		}
 		
 		dispositivoSvc.changeDeviceStatus(3l, StatoDispositivo.IN_MANUTENZIONE);
-		dispositivoSvc.changeDeviceStatus(3l, StatoDispositivo.IN_MANUTENZIONE);
 		
 	}
 

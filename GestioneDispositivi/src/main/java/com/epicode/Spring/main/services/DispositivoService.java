@@ -10,8 +10,10 @@ import com.epicode.Spring.main.models.Dispositivo;
 import com.epicode.Spring.main.models.Laptop;
 import com.epicode.Spring.main.models.Smartphone;
 import com.epicode.Spring.main.models.Tablet;
+import com.epicode.Spring.main.models.Utente;
 import com.epicode.Spring.main.models.enumerators.StatoDispositivo;
 import com.epicode.Spring.main.repositories.DispositivoRepository;
+import com.epicode.Spring.main.repositories.UtenteRepository;
 
 import lombok.extern.slf4j.Slf4j;
 
@@ -20,6 +22,7 @@ import lombok.extern.slf4j.Slf4j;
 public class DispositivoService {
 	
 	@Autowired DispositivoRepository dispositivoRepository;
+	@Autowired UtenteRepository utenteRepository;
 	
 	@Autowired @Qualifier("getSmartphone") ObjectProvider<Smartphone> smartphoneProvider;
 	@Autowired @Qualifier("getTablet") ObjectProvider<Tablet> tabletProvider;
@@ -62,6 +65,26 @@ public class DispositivoService {
 		dispositivo.setStatoDispositivo(s);
 		dispositivoRepository.save(dispositivo);
 		log.info("Stato del dispositivo aggiornato! Nuovo stato: {}", dispositivo.getStatoDispositivo());
+	}
+	
+	public void setDeviceUser(Long id, String username) {
+		
+		Dispositivo dispositivo = dispositivoRepository.findById(id).get();
+		Utente utente = utenteRepository.findById(username).get();
+		
+		if ( dispositivoRepository.findById(id).get().getStatoDispositivo() != StatoDispositivo.DISPONIBILE ) {
+			// Lanciare eccezione personalizzata
+		}
+		
+		dispositivo.setUtente(utente);
+		dispositivoRepository.save(dispositivo);
+		log.info(
+				"Dispositivo n. {} associato a {} {}",
+				dispositivo.getId(),
+				dispositivo.getUtente().getNome(),
+				dispositivo.getUtente().getCognome()
+				);
+		
 	}
 
 }
