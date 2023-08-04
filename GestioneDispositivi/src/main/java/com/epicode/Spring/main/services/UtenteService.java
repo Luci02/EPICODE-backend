@@ -5,6 +5,7 @@ import java.util.List;
 import org.springframework.beans.factory.ObjectProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.data.aot.PublicMethodReflectiveProcessor;
 import org.springframework.stereotype.Service;
 
 import com.epicode.Spring.main.models.Utente;
@@ -19,10 +20,10 @@ public class UtenteService {
 	
 	@Autowired UtenteRepository utenteRepository;
 	
-	@Autowired @Qualifier("getFakeUser") ObjectProvider<Utente> utenteProvider;
+	@Autowired @Qualifier("getFakeUser") ObjectProvider<Utente> fakeUtenteProvider;
 	
 	public Utente createFakeUser() {
-		return utenteProvider.getObject();
+		return fakeUtenteProvider.getObject();
 	}
 	
 	public void saveUser(Utente u) {
@@ -34,6 +35,18 @@ public class UtenteService {
 		
 		utenteRepository.save(u);
 		log.info("Utente salvato correttamente sul DB: {}", u);
+	}
+	
+	public void updateUser(Utente u) {
+		
+		utenteRepository.save(u);
+		log.info("Dati aggiornati correttamente sul DB: {}", u);
+		
+	}
+	
+	public void deleteUser( String username ) {
+		utenteRepository.deleteById(username);
+		log.info("Utente eliminato correttamente dal DB: {}", username);
 	}
 	
 	public List<Utente> getAllUsers() {

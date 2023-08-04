@@ -26,4 +26,10 @@ public class UtenteConfiguration {
 				.build();
 	}
 	
+	@Bean("getUser")
+	@Scope()
+	public Utente getUser() {
+		return new Utente();
+	}
+	
 }

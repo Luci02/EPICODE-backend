@@ -15,13 +15,13 @@ public class DispositivoRunner implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		
-		for (int i = 0; i < 3; i++) {			
-			dispositivoSvc.saveDevice( dispositivoSvc.createSmartphone() );
-			dispositivoSvc.saveDevice( dispositivoSvc.createTablet() );
-			dispositivoSvc.saveDevice( dispositivoSvc.createlapLaptop() );
-		}
+//		for (int i = 0; i < 3; i++) {			
+//			dispositivoSvc.saveDevice( dispositivoSvc.createSmartphone() );
+//			dispositivoSvc.saveDevice( dispositivoSvc.createTablet() );
+//			dispositivoSvc.saveDevice( dispositivoSvc.createlapLaptop() );
+//		}
 		
-		dispositivoSvc.changeDeviceStatus(3l, StatoDispositivo.IN_MANUTENZIONE);
+		//dispositivoSvc.changeDeviceStatus(3l, StatoDispositivo.IN_MANUTENZIONE);
 		
 	}
 
