@@ -1,14 +1,14 @@
 package com.epicode.Spring.main.services;
 
-import java.util.List;
-
 import org.springframework.beans.factory.ObjectProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.data.aot.PublicMethodReflectiveProcessor;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 import com.epicode.Spring.main.models.Utente;
+import com.epicode.Spring.main.repositories.UtentePageableRepository;
 import com.epicode.Spring.main.repositories.UtenteRepository;
 
 import jakarta.persistence.EntityExistsException;
@@ -19,6 +19,7 @@ import lombok.extern.slf4j.Slf4j;
 public class UtenteService {
 	
 	@Autowired UtenteRepository utenteRepository;
+	@Autowired UtentePageableRepository pageableUsersRepo;
 	
 	@Autowired @Qualifier("getFakeUser") ObjectProvider<Utente> fakeUtenteProvider;
 	
@@ -49,8 +50,8 @@ public class UtenteService {
 		log.info("Utente eliminato correttamente dal DB: {}", username);
 	}
 	
-	public List<Utente> getAllUsers() {
-		return (List<Utente>) utenteRepository.findAll();
+	public Page<Utente> getAllUsers(Pageable pageable) {
+		return pageableUsersRepo.findAll(pageable);
 	}
 
 	public Utente getSingleUser(String username) {

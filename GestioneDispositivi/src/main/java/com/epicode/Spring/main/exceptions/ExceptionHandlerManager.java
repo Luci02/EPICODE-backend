@@ -1,5 +1,6 @@
 package com.epicode.Spring.main.exceptions;
 
+import org.hibernate.TypeMismatchException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
@@ -16,9 +17,14 @@ public class ExceptionHandlerManager extends ResponseEntityExceptionHandler {
 		return new ResponseEntity<String>(e.getMessage(), HttpStatus.BAD_REQUEST);
 	}
 	
-	@ExceptionHandler(EqualStatusException.class)
-	public ResponseEntity<String> manageEqualStatusException(EqualStatusException e) {
-		return new ResponseEntity<String>(e.getMessage(), HttpStatus.BAD_REQUEST);
+	@ExceptionHandler(DeviceStatusException.class)
+	public ResponseEntity<String> manageEqualStatusException(DeviceStatusException e) {
+		return new ResponseEntity<String>(e.getMessage(), e.getStatus());
+	}
+	
+	@ExceptionHandler(TypeMismatchException.class)
+	public ResponseEntity<String> manageTypeMismatchException( TypeMismatchException e ) {
+		return new ResponseEntity<String>( e.getMessage(), HttpStatus.INTERNAL_SERVER_ERROR );
 	}
 	
 }

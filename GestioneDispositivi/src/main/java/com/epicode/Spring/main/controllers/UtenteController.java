@@ -1,8 +1,8 @@
 package com.epicode.Spring.main.controllers;
 
-import java.util.List;
-
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -18,36 +18,34 @@ import com.epicode.Spring.main.models.Utente;
 import com.epicode.Spring.main.services.UtenteService;
 
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/api/users")
 public class UtenteController {
 	
 	@Autowired UtenteService utenteSvc;
 	
-	@GetMapping("/users")
-	public ResponseEntity<List<Utente>> getallUsers() {
-		List<Utente> listaUtenti = utenteSvc.getAllUsers();
-		ResponseEntity<List<Utente>> response = new ResponseEntity<List<Utente>>(listaUtenti, HttpStatus.OK);
-		return response;
+	@GetMapping
+	public ResponseEntity<Page<Utente>> getallUsers( Pageable pageable ) {
+		return new ResponseEntity<Page<Utente>>(utenteSvc.getAllUsers(pageable), HttpStatus.OK);
 	}
 	
-	@GetMapping("/users/{username}")
+	@GetMapping("/{username}")
 	public ResponseEntity<Utente> getSingleUser( @PathVariable String username ) {
 		return new ResponseEntity<Utente>( utenteSvc.getSingleUser(username), HttpStatus.OK );
 	}
 	
-	@PostMapping("/users")
+	@PostMapping
 	public ResponseEntity<Utente> setNewUser( @RequestBody Utente utente ) {
 		utenteSvc.saveUser(utente);
 		return new ResponseEntity<Utente>( utente, HttpStatus.OK );
 	}
 	
-	@PutMapping("/users")
+	@PutMapping
 	public ResponseEntity<Utente> updateUser( @RequestBody Utente utente ) {
 		utenteSvc.updateUser(utente);
 		return new ResponseEntity<Utente>( utente, HttpStatus.OK );
 	}
 	
-	@DeleteMapping("/users/{username}")
+	@DeleteMapping("/{username}")
 	public ResponseEntity<String> deleteUser( @PathVariable String username ) {		
 		utenteSvc.deleteUser(username);
 		return new ResponseEntity<String>("Utente eliminato correttamente dal DB!", HttpStatus.OK);
