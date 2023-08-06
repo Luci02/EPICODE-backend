@@ -34,6 +34,11 @@ public class DispositivoController {
 		return new ResponseEntity<Page<Dispositivo>>(dispSvc.getAllDevices(pageable), HttpStatus.OK);
 	}
 	
+	@GetMapping("/{id}")
+	public ResponseEntity<Dispositivo> getSingleDevice( @PathVariable Long id ) {
+		return new ResponseEntity<Dispositivo>( dispSvc.getDeviceById(id), HttpStatus.OK);
+	}
+	
 	@PostMapping
 	public ResponseEntity<Dispositivo> addNewDevice( @PathParam(value = "type") String type ) {
 		
