@@ -10,7 +10,7 @@ public class MainClass {
 		
 		info.setNome("Gianni");
 		info.setCognome("Celeste");
-		info.DataDiNascita( LocalDate.of(1964, 6, 24) );
+		info.DataDiNascita( LocalDate.of(1964, 06, 24) );
 		
 		Adapter a = new Adapter(info);
 		

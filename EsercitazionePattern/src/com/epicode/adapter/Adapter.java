@@ -1,6 +1,7 @@
 package com.epicode.adapter;
 
 import java.time.LocalDate;
+import java.time.Period;
 
 public class Adapter implements DataSource {
 	
@@ -18,9 +19,8 @@ public class Adapter implements DataSource {
 
 	@Override
 	public int getEta() {
-		int annoAttuale = LocalDate.now().getYear();
-		int annoDiNascita = this.info.getDataDiNascita().getYear(); 
-		return annoAttuale - annoDiNascita;
+		Period p = Period.between(this.info.getDataDiNascita(), LocalDate.now());
+		return p.getYears();
 	}
 
 }
