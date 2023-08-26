@@ -14,6 +14,14 @@ public class SondaService {
 
 	@Autowired SondaRepository repo;
 	
+	public void save(String lat, String lon) {
+		repo.save( new Sonda(lat, lon) );
+	}
+	
+	public Sonda find(Long id) {
+		return repo.findById(id).get();
+	}
+	
 	public void sendRequest( Sonda s ) {
 		// http://localhost:8080/alarm?idsonda=01&lat=47.25845654&lon=98.7848467&smokelevel=50
 		Random r = new Random();
